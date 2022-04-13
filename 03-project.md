@@ -31,4 +31,4 @@ rect(260, 210, 60, 10, 5); // 1st green pepper
 rect(260, 230, 60, 10, 5); // 2nd green pepper
 ```
 
-[project1](project1.png)
+![project1](project1.png)
