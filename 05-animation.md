@@ -147,7 +147,7 @@ draw = function() {
 
 #### Mouse Interaction
 
-
+```
 // mouseX and mouseY
 
 strokeWeight(3);
@@ -163,3 +163,5 @@ draw = function() {
     ellipse(mouseY, mouseX, 30, 30);
     
 };
+
+```
